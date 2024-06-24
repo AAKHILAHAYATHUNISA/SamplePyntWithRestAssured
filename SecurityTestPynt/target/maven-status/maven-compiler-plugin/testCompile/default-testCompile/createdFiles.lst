@@ -1,0 +1,6 @@
+com\Assesment\runner\Runner.class
+com\Assesment\steps\Automation.class
+com\Assesment\steps\ApiAutomation.class
+com\Assesment\steps\ApiAutomation$1.class
+com\Assesment\steps\Tag.class
+com\Assesment\steps\Category.class
